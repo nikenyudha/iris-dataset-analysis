@@ -20,18 +20,18 @@ Identify patterns and insights through EDA.
 
 📈 Exploratory Data Analysis (EDA) 
 The following analyses were conducted:
-🌸 Data Cleaning: Handling missing values, data types, etc.
-🌸Descriptive Statistics: Summary statistics for each feature.
-🌸Visualizations:
+- 🌸 Data Cleaning: Handling missing values, data types, etc.
+- 🌸Descriptive Statistics: Summary statistics for each feature.
+- 🌸Visualizations:
    - Pairplots to visualize feature relationships.
    - Boxplots to detect outliers.
    - Correlation heatmaps to understand feature dependencies.
 
 🔬 Key Insights
 
-🌸Setosa species has smaller petal and sepal dimensions compared to other species, making it easier to distinguish.
-🌸Versicolor and Virginica show some overlap in their feature distributions, particularly in petal length and width.
-🌸The strongest correlation was observed between petal_length and petal_width.
+- 🌸Setosa species has smaller petal and sepal dimensions compared to other species, making it easier to distinguish.
+- 🌸Versicolor and Virginica show some overlap in their feature distributions, particularly in petal length and width.
+- 🌸The strongest correlation was observed between petal_length and petal_width.
 
 📚 References
 
